@@ -14,4 +14,5 @@ where n = 50.
 ## Sample Output
 
 Sum of the first 50 natural numbers is : 1275
+
 Sum using formula n(n+!)/2: 1275
