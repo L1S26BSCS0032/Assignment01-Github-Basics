@@ -11,7 +11,7 @@ The program uses the formula:
 S = n(n + 1) / 2
 where n = 50.
 
-##Sample Output
+## Sample Output
 
 Sum of the first 50 natural numbers is : 1275
 Sum using formula n(n+!)/2: 1275
