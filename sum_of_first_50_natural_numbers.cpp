@@ -1,3 +1,9 @@
+/*
+    Program Title: Sum of First 50 Natural Numbers
+    Name: Tayyabah Khawaja
+    Registration Number: L1S26SCS0032
+    Assignment Number 01
+*/
 #include<iostream>
 using namespace std;
 int main()
