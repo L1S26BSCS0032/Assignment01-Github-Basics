@@ -9,13 +9,20 @@ using namespace std;
 int main()
 {
     int sum = 0; 
-    int n = 50;
     
-    for(int i = 1; i <= n; ++i)
+    //Method 1: through loop
+    
+    for(int i = 1; i <= 50; ++i)
     {
-        sum+=i;
+        sum += i;
     }
-    cout <<"The sum of the first 50 natural numbers is : " << sum << endl;
+    cout <<"Sum of the first 50 natural numbers is : " << sum << endl;
+    
+    //Method 2: using the formula
+    
+    int n = 50;
+    int formulaSum = n * (n + 1) / 2;
+    cout << "Sum using formula n(n+1)/2: " << formulaSum << endl;
     
     return 0;
 }
